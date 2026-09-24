@@ -1,10 +1,16 @@
+<div align="center">
+
 # Louis Tran
 
-**Artificial Intelligence student at the University of Technology Sydney (UTS)** · Machine Learning · Data Science · Backend Development
+### Artificial Intelligence Student | Machine Learning & Backend Development
 
-I build practical ML systems from data preparation and model evaluation to APIs and user-facing applications. Dean's List, UTS (2026).
+</div>
 
-## Featured projects
+## About Me
+
+AI student at the **University of Technology Sydney**, interested in Machine Learning, Data Science, Deep Learning, and building practical AI systems.
+
+Currently focusing on **Deep Learning, Computer Vision, ML deployment, and MLOps**.
 
 - **[E-commerce Customer Segmentation](https://github.com/LouisTran1701/ecommerce-customer-segmentation)** — Developing a K-Means and KNN pipeline for customer segments, with a FastAPI backend and React dashboard. Exploring SHAP for model explanations.
 - **[Titanic ML Pipeline](https://github.com/LouisTran1701/titanic-ml-pipeline)** — Built a preprocessing and feature-engineering pipeline with model tuning, 5-fold cross-validation, and a Streamlit prediction app; reached approximately 83% cross-validation accuracy.
