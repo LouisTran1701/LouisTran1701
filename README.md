@@ -11,18 +11,11 @@ I build practical ML systems from data preparation and model evaluation to APIs 
 
 ## GitHub analytics
 
-<p align="center">
-  <img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub contribution activity" />
-  <img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories by language" />
-  <img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Commits by language" />
-  <img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" />
-  <img width="49%" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time by hour" />
-</p>
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LouisTran1701&langs_count=4&theme=nord)](https://github-stats-extended.vercel.app/api/top-langs?username=LouisTran1701&langs_count=4&theme=nord)                               [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LouisTran1701&include_all_commits=true&theme=calm_pink)](https://github-stats-extended.vercel.app/api?username=LouisTran1701&include_all_commits=true&theme=calm_pink)
 ## Tech stack
 
 **Languages:** Python · Java · SQL · JavaScript · HTML/CSS · C++ (basic)  
-**ML & data:** Scikit-learn · Pandas · NumPy · SciPy · Matplotlib · Seaborn · XGBoost · LightGBM · SHAP · Jupyter  
+**ML & data:** Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn · XGBoost · LightGBM · SHAP · Jupyter  
 **Applications:** FastAPI · React · Streamlit · SQLAlchemy  
 **Databases:** PostgreSQL · MongoDB · Redis  
 **Tools:** Git · GitHub · Docker · Conda · Linux/Unix · VS Code · DBeaver
