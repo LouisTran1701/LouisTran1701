@@ -15,9 +15,18 @@ Currently focusing on **Deep Learning, Computer Vision, ML deployment, and MLOps
 - **[E-commerce Customer Segmentation](https://github.com/LouisTran1701/ecommerce-customer-segmentation)** — Developing a K-Means and KNN pipeline for customer segments, with a FastAPI backend and React dashboard. Exploring SHAP for model explanations.
 - **[Titanic ML Pipeline](https://github.com/LouisTran1701/titanic-ml-pipeline)** — Built a preprocessing and feature-engineering pipeline with model tuning, 5-fold cross-validation, and a Streamlit prediction app; reached approximately 83% cross-validation accuracy.
 
-## GitHub analytics
+## GitHub Analytics
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LouisTran1701&langs_count=4&theme=nord)](https://github-stats-extended.vercel.app/api/top-langs?username=LouisTran1701&langs_count=4&theme=nord)                               [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LouisTran1701&include_all_commits=true&theme=calm_pink)](https://github-stats-extended.vercel.app/api?username=LouisTran1701&include_all_commits=true&theme=calm_pink)
+<div align="center">
+
+</table>
+
+<img
+  src="https://streak-stats.demolab.com?user=LouisTran1701&theme=github-dark-blue&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
 ## Tech stack
 
 **Languages:** Python · Java · SQL · JavaScript · HTML/CSS · C++ (basic)  
