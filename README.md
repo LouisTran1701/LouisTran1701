@@ -35,6 +35,6 @@ Currently focusing on **Deep Learning, Computer Vision, ML deployment, and MLOps
 **Databases:** PostgreSQL · MongoDB · Redis  
 **Tools:** Git · GitHub · Docker · Conda · Linux/Unix · VS Code · DBeaver
 
-**Currently learning:** Deep Learning · Computer Vision · MLOps
+**Currently learning:** Deep Learning · MLOps
 
 **Contact:** [thanhloitran.work@gmail.com](mailto:thanhloitran.work@gmail.com)
