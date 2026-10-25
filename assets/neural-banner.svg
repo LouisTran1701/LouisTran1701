@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Louis Tran — Data Scientist · ML Engineer</title>
+  <desc id="desc">A cyan and teal neural network on dark navy. Four layers are labeled Data, Models, Systems, and Deploy. Louis Tran, Data Scientist · ML Engineer, and the complete network remain visible without animation.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#080f20"/><stop offset="1" stop-color="#0b1c30"/>
+    </linearGradient>
+    <radialGradient id="aura">
+      <stop stop-color="#0e766e" stop-opacity=".19"/><stop offset="1" stop-color="#0e766e" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="wire" gradientUnits="userSpaceOnUse" x1="688" x2="1114">
+      <stop stop-color="#22d3ee"/><stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".7" fill="#75a9c2" fill-opacity=".12"/>
+    </pattern>
+    <g id="neuron">
+      <circle r="13" fill="#22d3ee" fill-opacity=".05"/>
+      <circle r="6" fill="#0c2335" stroke="#45dce2" stroke-opacity=".65"/>
+      <circle r="2" fill="#a5f3fc"/>
+    </g>
+    <g id="active">
+      <circle r="20" fill="#2dd4bf" fill-opacity=".05"/>
+      <circle r="12" fill="#2dd4bf" fill-opacity=".09"/>
+      <circle r="6" fill="#102f3d" stroke="#5eead4"/>
+      <circle r="2.5" fill="#ccfbf1"/>
+    </g>
+  </defs>
+  <style>
+    .signal{animation:flow 9s linear infinite}
+    .s2{animation-delay:-2.8s;animation-duration:11s}
+    .s3{animation-delay:-5.4s;animation-duration:10s}
+    .s4{animation-delay:-7.2s;animation-duration:12s}
+    @keyframes flow{from{stroke-dashoffset:0}to{stroke-dashoffset:-1000}}
+    @media(prefers-reduced-motion:reduce){.signal{animation:none}}
+  </style>
+  <rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1278" height="358" rx="19" fill="none" stroke="#244056" stroke-opacity=".65"/>
+  <rect x="600" y="24" width="648" height="312" fill="url(#grid)"/>
+  <ellipse cx="930" cy="180" rx="338" ry="180" fill="url(#aura)"/>
+  <path d="M592 54V306" stroke="#2d5267" stroke-opacity=".3"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+    <text x="54" y="177" fill="#f0f9ff" font-size="76" font-weight="700" letter-spacing="-3">Louis Tran</text>
+    <text x="58" y="220" fill="#a2bacd" font-size="23">Data Scientist · ML Engineer</text>
+    <g fill="#86b2c5" font-size="11" font-weight="600" letter-spacing="2" text-anchor="middle">
+      <text x="688" y="57">DATA</text>
+      <text x="824" y="57">MODELS</text>
+      <text x="960" y="57">SYSTEMS</text>
+      <text x="1114" y="57">DEPLOY</text>
+    </g>
+  </g>
+  <g fill="none" stroke="url(#wire)" stroke-width="1" stroke-opacity=".17">
+    <path d="M688 130 824 94M688 130 824 166M688 130 824 238M688 202 824 94M688 202 824 166M688 202 824 238M688 202 824 310M688 274 824 166M688 274 824 238M688 274 824 310"/>
+    <path d="M824 94 960 94M824 94 960 166M824 94 960 238M824 166 960 94M824 166 960 166M824 166 960 238M824 166 960 310M824 238 960 94M824 238 960 166M824 238 960 238M824 238 960 310M824 310 960 166M824 310 960 238M824 310 960 310"/>
+    <path d="M960 94 1114 166M960 94 1114 238M960 166 1114 166M960 166 1114 238M960 238 1114 166M960 238 1114 238M960 310 1114 166M960 310 1114 238"/>
+  </g>
+  <g fill="none" stroke="url(#wire)" stroke-width="1.25" stroke-opacity=".5">
+    <path d="M688 130 824 166 960 94 1114 166M688 202 824 94 960 166 1114 238M688 274 824 238 960 310 1114 238M688 202 824 310 960 238 1114 166"/>
+  </g>
+  <g fill="none" stroke="#b4fff6" stroke-width="4" stroke-linecap="round" stroke-dasharray="1 999">
+    <path class="signal" pathLength="1000" stroke-dashoffset="-200" d="M688 130 824 166 960 94 1114 166"/>
+    <path class="signal s2" pathLength="1000" stroke-dashoffset="-420" d="M688 202 824 94 960 166 1114 238"/>
+    <path class="signal s3" pathLength="1000" stroke-dashoffset="-650" d="M688 274 824 238 960 310 1114 238"/>
+    <path class="signal s4" pathLength="1000" stroke-dashoffset="-840" d="M688 202 824 310 960 238 1114 166"/>
+  </g>
+  <g>
+    <use href="#neuron" x="688" y="130"/><use href="#active" x="688" y="202"/><use href="#neuron" x="688" y="274"/>
+    <use href="#neuron" x="824" y="94"/><use href="#active" x="824" y="166"/><use href="#neuron" x="824" y="238"/><use href="#neuron" x="824" y="310"/>
+    <use href="#neuron" x="960" y="94"/><use href="#neuron" x="960" y="166"/><use href="#active" x="960" y="238"/><use href="#neuron" x="960" y="310"/>
+    <use href="#active" x="1114" y="166"/><use href="#neuron" x="1114" y="238"/>
+  </g>
+</svg>
